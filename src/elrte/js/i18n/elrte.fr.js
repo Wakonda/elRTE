@@ -1,7 +1,7 @@
 /**
  * French translation
  * @author Francois Mazerolle <fmaz008@gmail.com>
- * @version 2010-09-18
+ * @version 2014-01-01
  */
 (function($) {
 elRTE.prototype.i18Messages.fr = {
@@ -46,7 +46,7 @@ elRTE.prototype.i18Messages.fr = {
 	'Align full'              : 'Justifier',
 	'Font color'              : 'Couleur de texte',
 	'Background color'        : 'Couleur d\'arrière plan',
-	'Indent'                  : 'Aumenter la marge',
+	'Indent'                  : 'Augmenter la marge',
 	'Outdent'                 : 'Réduire la marge',
 	'Format'                  : 'Formater',
 	'Font size'               : 'Taille de police',
@@ -97,7 +97,7 @@ elRTE.prototype.i18Messages.fr = {
 	'Script direction' : 'Direction de script',
 	'Language' : 'Langue',
 	'Charset' : 'Jeu de caractères',
-	'Not set' : 'No set',
+	'Not set' : 'Aucun',
 	'Left to right' : 'Gauche à droite',
 	'Right to left' : 'Droite à gauche',
 	'In this window' : 'Dans cette fenêtre (_self)',
@@ -141,13 +141,13 @@ elRTE.prototype.i18Messages.fr = {
 	'Scrollbars' : 'Barres de défillement',
 	'Status bar' : 'Barre d\'état',
 	'Resizable' : 'Redimensionable',
-	'Depedent' : 'Dépendent (Netscape)',
+	'Depedent' : 'Dépendant (Netscape)',
 	'Add return false' : 'Ajouter un retour négatif (return false)',
 	'Target MIME type' : 'Type MIME cible',
 	'Relationship page to target (rel)' : '',
 	'Relationship target to page (rev)' : '',
 	'Tab index' : 'Index de tabulation',
-	'Access key' : 'Tecla de acceso',
+	'Access key' : 'Raccourci clavier',
 	// image
 	'Size' : 'Taille',
 	'Preview' : 'Prévisualisation',
